@@ -1,3 +1,6 @@
+# git-create-repo
+Create new GitHub repository from Unix based Command line 
+
 
 Prerequisites:
 
