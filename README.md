@@ -54,4 +54,4 @@ $ git-create-repo NEW_REPO
 ### Further development:
 
 - Can be improved by adding Repo description and more details in the README.md file, or to make the repos private, using the respective switches from GIT API.
-- Once the API token is known, Steps 2 and 3 can be incorporated in a single shell script with enough error handling for resilience, in order to make it a single package solution.
+- Once the API token is known, Steps 2 and 3 can be incorporated in a shell script with enough error handling for resilience, in order to make it a single package solution.
