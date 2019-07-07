@@ -2,7 +2,7 @@
 Create new GitHub repository from Unix based Command line 
 
 
-Prerequisites:
+### Prerequisites:
 
  - Git username should be setup:
  ```
@@ -16,7 +16,7 @@ git config --global user.email "YOUR-GIT-NOREPLY-EMAIL"
 ``` 
 
 
-Instructions:
+### Instructions:
 
 1. Use this procedure to create the GITHUB_API_TOKEN:
 
@@ -51,7 +51,7 @@ $ . ~/.bashrc
 $ git-create-repo NEW_REPO
 ```
 
-Further development:
+### Further development:
 
 - Can be improved by adding Repo description and more details in the README.md file using the respective switches from GIT API.
 - Once the API token is known, Steps 2 and 3 can be incorporated in a single shell script with enough error handling for resilience, in order to make it a single package solution.
