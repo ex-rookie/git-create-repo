@@ -46,7 +46,7 @@ git-create-repo() {
 ```
 $ . ~/.bashrc
 ```
-4. Usage: The below command creates a repository named NEW_REPO on GitHub, and a local project directory with the same name:
+4. Usage: From here onwards, the below command creates a repository named NEW_REPO on GitHub, and a local project directory with the same name:
 ```
 $ git-create-repo NEW_REPO
 ```
