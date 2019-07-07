@@ -11,7 +11,9 @@ Prerequisites:
  - Git repository actions(push, pull, commit) using either SSH key or HTTPS must be setup to be non-interactive.
  - To avoid any email privacy exceptions, please use the "noreply.github.com" email id. Found here:
  https://github.com/settings/emails
- 
+```
+git config --global user.email "YOUR-GIT-NOREPLY-EMAIL"
+``` 
 
 
 Instructions:
